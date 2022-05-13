@@ -4,6 +4,7 @@
     "description": "conan55151代码片段",
     "publisher": "4dkhsy44bmulbydpoxvw6bh2qrf6owqyqjrv342j33qjf67dusta",
     "version": "0.0.1",
+    "repository": "https://github.com/conan51551/conan51551-snipper.git",
     "engines": {
         "vscode": "^1.67.0"
     },

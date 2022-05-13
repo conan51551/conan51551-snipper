@@ -1,0 +1,30 @@
+{
+  "创建functional component": {
+    "prefix": "createFC",
+    "body": [
+      "import React, { useEffect, useState } from 'react'",
+      "",
+      "export default function $1() {",
+      "\tconst [${2:state}, set${2:State}] = useState($3)",
+      "",
+      "\tuseEffect(() => {",
+      "",
+      "\t}, [])",
+      "",
+      "\treturn <></>",
+      "}"
+    ]
+  },
+  "ell": {
+    "prefix": "ell",
+    "body": [
+      ".ellipsis {",
+      "\twhite-space: nowrap;",
+      "\ttext-overflow: ellipsis;",
+      "\toverflow: hidden;",
+      "\tword-break: break-all;",
+      "}"
+    ],
+		"description": "超出显示省略号"
+  }
+}

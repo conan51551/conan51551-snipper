@@ -1,0 +1,21 @@
+{
+    "name": "conan51551-snipper",
+    "displayName": "conan51551-snipper",
+    "description": "conan55151代码片段",
+    "publisher": "4dkhsy44bmulbydpoxvw6bh2qrf6owqyqjrv342j33qjf67dusta",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
